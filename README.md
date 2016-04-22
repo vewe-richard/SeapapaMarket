@@ -1,9 +1,9 @@
-# F-Droid Client
+# Market For Student
 
-[![build status](https://gitlab.com/ci/projects/6571/status.png?ref=master)](https://gitlab.com/ci/projects/6571?ref=master) [![Translation status](https://hosted.weblate.org/widgets/f-droid/-/svg-badge.svg)](https://hosted.weblate.org/engage/f-droid/)
+Market for [ZYU Android Student System](http://www.seapapa.com.cn/)
 
-Client for [F-Droid](https://f-droid.org), the Free Software repository system
-for Android.
+# Introduce to ZYU Android Student System
+[Introduce](http://www.seapapa.com.cn/ads/introduce.html)
 
 ## Building with Gradle
 
@@ -15,18 +15,7 @@ and [Gradle](http://gradle.org/) 2.8:
 
 ## Direct download
 
-You can [download the application](https://f-droid.org/FDroid.apk) directly
-from our site or [browse it in the repo](https://f-droid.org/app/org.fdroid.fdroid).
-
-## Contributing
-
-See our [Contributing doc](CONTRIBUTING.md) for information on how to report
-issues, translate the app into your language or help with development.
-
-## IRC
-
-We are on `#fdroid` and `#fdroid-dev` on Freenode. We hold weekly dev meetings
-on `#fdroid-dev` on Tuesdays at 20h UTC, which usually last half an hour.
+You can [download the application](http://www.seapapa.com.cn/ads/easyinstall.html)
 
 ## License
 
